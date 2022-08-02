@@ -1,0 +1,3 @@
+DOM: Contiene la estructura html de la página web, su jerarquía se guarda en forma de árbol.
+DOM element selectors: Selectores para la utilización de las etiquetas html desde javascript.
+DOM events: Eventos o acciones realizadas por el usuario, cada elemento html puede tener uno o varios eventlistener (clicks, mouseover, keypressed, etc.).
