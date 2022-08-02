@@ -1,0 +1,5 @@
+Framework: Entrono de trabajo que facilita el desarrollo de una aplicación.
+
+Preprocesador: Se encarga de pre-compilar un código, contiene sintaxis que facilitan el desarrollo pero que no son comprendidas por los compiladores. El preprocesador lee la sintaxis, lo convierte a lenguaje que el compilador entiende y luego es compilado.
+
+Responsive website: Es un sitio web que reaccione o se adapta a la pantalla del dispositivo en que es mostrada. Sus elemento siempre se ven ordenados aunque pueden cambiar de apariencia y disposición dependiendo de la resolución de la pantalla.
